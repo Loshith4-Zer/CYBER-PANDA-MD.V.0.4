@@ -10,7 +10,7 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = true;                //auto tying by default off.
-global.autoRecord = true;                //auto recording by default off.
+global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
@@ -26,7 +26,7 @@ global.OwnerNumber = ["+94704997634"];   //If you want singal number so global.O
 global.ownertag = ["+94704997634"];
 global.OwnerName = "Loshith-Zer";
 global.BotName = "LOSHITHA ZER";
-global.packname = "🦋 DARK LOSHITHA 🦋";                             //Do not change.
+global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
 global.author = "LOSHITHA";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
